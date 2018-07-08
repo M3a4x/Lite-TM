@@ -1,1 +1,1 @@
-worker: light.js
+worker: node light.js
